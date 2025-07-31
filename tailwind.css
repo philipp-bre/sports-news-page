@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Sequel Sans';
+  src: url('/public/fonts/Sequel-Sans-Font/Sequel-Sans-Font/Sequel\ Sans/.otf') format('trueType');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Darkline';
+  src: url(/public/fonts/Darkline.otf) format('trueType');
+  font-weight: normal;
+  font-style: normal;
+}
